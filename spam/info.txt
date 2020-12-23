@@ -1,1 +1,2 @@
 
+Contine 2 dataset de mails clasificados como Spam o no Spam (ham) de la web de apache spamassassin
