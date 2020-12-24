@@ -1,2 +1,3 @@
 
-Contine 2 dataset de mails clasificados como Spam o no Spam (ham) de la web de apache spamassassin
+Contine un ZIP con 2 carpetas. Contienen mail clasificados como SPAM o HAM (no SPAM).
+Los datos proceden de la web de apache spamassassin
