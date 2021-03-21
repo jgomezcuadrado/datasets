@@ -1,3 +1,0 @@
-
-Contine un ZIP con 2 carpetas. Contienen mail clasificados como SPAM o HAM (no SPAM).
-Los datos proceden de la web de apache spamassassin
